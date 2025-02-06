@@ -1,4 +1,4 @@
-
+<img src="opt 2.png" >
 
 # Hello World!, I'm Abhishek, a Indian Developer 👋🏼:
 🛜 currently working on my own webpage<br>👨🏼‍🎓 studying Bachelors in Computer applications at dronacharya pg college <br>👨🏼‍💻 working as a web developer since 2022
