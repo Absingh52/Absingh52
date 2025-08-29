@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![snake gif](https://github.com/Absingh52/Absingh52/blob/output/github-snake-dark.svg)
