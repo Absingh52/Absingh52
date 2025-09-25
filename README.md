@@ -4,12 +4,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Passionate Full-Stack Web Developer with strong foundation in **Data Structures & Algorithms**.  
-- 🌐 Experienced in creating **scalable** and **responsive** web apps using the **MERN Stack**.  
-- ⚡ Skilled in modern frameworks like **Next.js, React.js, Tailwind CSS**, and tools like **Postman**.  
-- 🔧 Proficient in **C++**, **Python**, and **JavaScript** with solid debugging experience.  
-- 🎯 Aspiring to grow as a **Software Engineer at a leading MNC**, contributing to impactful projects.  
-- 🌱 Always eager to **learn, collaborate, and explore next-gen technologies**.  
+-  Passionate Full-Stack Web Developer with strong foundation in **Data Structures & Algorithms**.  
+-  Experienced in creating **scalable** and **responsive** web apps using the **MERN Stack**.  
+-  Skilled in modern frameworks like **Next.js, React.js, Tailwind CSS**, and tools like **Postman**.  
+-  Proficient in **C++**, **Python**, and **JavaScript** with solid debugging experience.  
+-  Aspiring to grow as a **Software Engineer at a leading MNC**, contributing to impactful projects.  
+-  Always eager to **learn, collaborate, and explore next-gen technologies**.  
 
 ---
 
