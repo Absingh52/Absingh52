@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</p>
-
 <h3 align="center"> Passionate Full-Stack Web Developer | Problem Solver | Aspiring Software Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
+<p align="left">
+  <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="160"/>
+</p>
+
 -  Passionate Full-Stack Web Developer with strong foundation in **Data Structures & Algorithms**.  
 -  Experienced in creating **scalable** and **responsive** web apps using the **MERN Stack**.  
 -  Skilled in modern frameworks like **Next.js, React.js, Tailwind CSS**, and tools like **Postman**.  
