@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">🚀 Passionate Full-Stack Web Developer | Problem Solver | Aspiring Software Engineer</h3>
+<h3 align="center"> Passionate Full-Stack Web Developer | Problem Solver | Aspiring Software Engineer</h3>
 
 ---
 
