@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 <p align="right">
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" style="margin-bottom:10rem;"/>
+  <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" style="margin-bottom:10rem;"/>
 </p>
 
 
