@@ -5,8 +5,10 @@
 
 ### 👨‍💻 About Me
 <p align="right">
-  <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" style="padding-left:2rem;"/>
+  <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" 
+       width="180" style="margin:10px;"/>
 </p>
+
 
 
 -  Passionate Full-Stack Web Developer with strong foundation in **Data Structures & Algorithms**.  
