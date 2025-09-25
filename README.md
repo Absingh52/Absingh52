@@ -68,17 +68,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Absingh52&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
-</p>
 
----
-
-### 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Absingh52&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
 
 ---
 
