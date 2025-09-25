@@ -76,3 +76,9 @@
 <p align="center">
   <img src="https://github.com/Absingh52/Absingh52/blob/output/github-snake-dark.svg"/>
 </p>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"><br>
+  <b>Thank you for scrolling till here 🙌 <br> Keep coding, keep building!</b>
+</p>
