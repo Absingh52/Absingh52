@@ -80,8 +80,5 @@
 ---
 ---
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
-  <b>Thanks for stopping by! See you around 👨‍💻</b>  
-</p>
 
+![giphy](https://github.com/user-attachments/assets/78dda302-dfdf-4726-9f6d-e631ee28734a)
