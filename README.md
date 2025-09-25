@@ -5,8 +5,9 @@
 
 ### 👨‍💻 About Me
 <p align="right">
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" style="margin-top:-20px;"/>
 </p>
+
 
 -  Passionate Full-Stack Web Developer with strong foundation in **Data Structures & Algorithms**.  
 -  Experienced in creating **scalable** and **responsive** web apps using the **MERN Stack**.  
