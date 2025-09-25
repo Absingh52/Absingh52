@@ -78,7 +78,13 @@
 </p>
 
 ---
+
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78dda302-dfdf-4726-9f6d-e631ee28734a" width="300"/>
+</p>
+
 ---
 
-![giphy](https://github.com/user-attachments/assets/78dda302-dfdf-4726-9f6d-e631ee28734a)
+
+
