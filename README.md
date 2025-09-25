@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</p>
+
 <h3 align="center"> Passionate Full-Stack Web Developer | Problem Solver | Aspiring Software Engineer</h3>
 
 ---
