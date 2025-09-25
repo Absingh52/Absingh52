@@ -77,11 +77,11 @@
   <img src="https://github.com/Absingh52/Absingh52/blob/output/github-snake-dark.svg"/>
 </p>
 
----
+
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78dda302-dfdf-4726-9f6d-e631ee28734a" width="300"/>
+  <img src="https://github.com/user-attachments/assets/78dda302-dfdf-4726-9f6d-e631ee28734a" alt="giphy" style="max-width:100%; height:auto;"/>
 </p>
 
 ---
