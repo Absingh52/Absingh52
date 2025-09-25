@@ -78,7 +78,9 @@
 </p>
 
 ---
+---
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"><br>
-  <b>Thank you for scrolling till here 🙌 <br> Keep coding, keep building!</b>
+  <b>✨ Thank you for visiting my GitHub ✨</b><br>
+  <sub>(Powered by a lot of coffee ☕ + a little bit of <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"> from Giphy!)</sub>
 </p>
+
