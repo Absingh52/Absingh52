@@ -9,7 +9,6 @@
 </p>
 
 
-
 -  Passionate Full-Stack Web Developer with strong foundation in **Data Structures & Algorithms**. 
 -  Experienced in creating **scalable** and **responsive** web apps using the **MERN Stack**.  
 -  Skilled in modern frameworks like **Next.js, React.js, Tailwind CSS**, and tools like **Postman**.  
