@@ -3,7 +3,7 @@
 
 ---
 ### 👨‍💻 About Me
-<p align="right">
+<p align="right"
   <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" 
        width="140" height="400" style="margin:10px;"/>
 </p>
